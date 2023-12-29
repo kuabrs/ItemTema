@@ -6,7 +6,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace ItemTema.Persistencia.DAL
+namespace Persistencia.DAL
 {
     public class ItemDAL
     {
