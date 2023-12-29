@@ -6,7 +6,7 @@ using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
 using System.Web;
 
-namespace Persistencia.Contexts
+namespace ItemTema.Contexts
 {
     public class EFContext : DbContext
     {

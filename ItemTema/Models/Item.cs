@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace Modelo.Models
+namespace ItemTema.Models
 {
     public class Item
     {
